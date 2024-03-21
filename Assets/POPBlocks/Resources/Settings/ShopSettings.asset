@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f120804c1af4d12859890eb4f9cda57, type: 3}
+  m_Name: ShopSettings
+  m_EditorClassIdentifier: 
+  enable: 1
+  shopItems:
+    array:
+    - productID: com.candysmith.popblocks.pack1
+      coins: 10
+    - productID: com.candysmith.popblocks.pack2
+      coins: 50
+    - productID: com.candysmith.popblockspack3
+      coins: 100
+    - productID: com.candysmith.popblocks.pack4
+      coins: 250

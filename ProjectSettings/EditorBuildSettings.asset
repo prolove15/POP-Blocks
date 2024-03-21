@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/POPBlocks/Scenes/main.unity
+    guid: 05892fd683072c742a6692e7d44d4e65
+  - enabled: 1
+    path: Assets/POPBlocks/Scenes/game.unity
+    guid: c9afd574d68c8ef47a53a06e4a3b795b
+  - enabled: 0
+    path: Assets/POPBlocks/Scenes/grid.unity
+    guid: e4876c76d31a23c41a399869a1d458f7
+  - enabled: 1
+    path: Assets/POPBlocks/Scenes/map.unity
+    guid: 91daa0dc46e492f4c89db7ce8d81577c
+  m_configObjects: {}

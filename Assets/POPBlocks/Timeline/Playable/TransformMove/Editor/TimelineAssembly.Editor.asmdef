@@ -1,0 +1,18 @@
+{
+    "name": "TimelineAssembly.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:32ff2f1ed0b83f1409119baa3d1d683b"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

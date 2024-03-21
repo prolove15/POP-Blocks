@@ -1,0 +1,26 @@
+{
+    "name": "CandySmith.POPBlocks.Level.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:a2125505c4e6fe74f9f639af80bc3dbd",
+        "GUID:466d4cb32fd66ef4f99747d4eb7191d9",
+        "GUID:d178ac4b10764814c8ae876ce6354d19",
+        "GUID:40b44d41819601840840f0495c3f2480",
+        "GUID:3e761f50a023a2f4cb4159aa244b8e4a",
+        "GUID:b754cb8760731f34eb2518b10c6bceec",
+        "GUID:f309cab5349e89043a368ab460700e08"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "UNITY_EDITOR"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

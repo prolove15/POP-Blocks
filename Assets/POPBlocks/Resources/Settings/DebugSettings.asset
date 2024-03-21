@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3df68b5d148408d8cfc2d04d31c9869, type: 3}
+  m_Name: DebugSettings
+  m_EditorClassIdentifier: 
+  TimeScaleUI: 1
+  TimeScaleItems: 1
+  AI: 0
+  enableShortcuts: 1
+  Win: 119
+  Lose: 108
+  Restart: 114
+  Back: 27
+  Regen: 32
+  lastMove: 109

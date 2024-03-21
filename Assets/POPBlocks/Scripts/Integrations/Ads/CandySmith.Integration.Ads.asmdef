@@ -1,0 +1,27 @@
+{
+    "name": "CandySmith.Integration.Ads",
+    "rootNamespace": "",
+    "references": [
+        "GUID:d178ac4b10764814c8ae876ce6354d19",
+        "GUID:a2125505c4e6fe74f9f639af80bc3dbd",
+        "GUID:40b44d41819601840840f0495c3f2480",
+        "GUID:ff6de30450f3748908ff580f6ec64d9a",
+        "GUID:cbb42e4cfd9484f52972c8f05e1c3252",
+        "GUID:89b1a7ccb47ca4af895f1a79875f0370"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.ads",
+            "expression": "",
+            "define": "UNITY_ADS"
+        }
+    ],
+    "noEngineReferences": false
+}

@@ -1,0 +1,49 @@
+{
+    "name": "CandySmith.POPBlocks.MainScripts",
+    "rootNamespace": "",
+    "references": [
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:d178ac4b10764814c8ae876ce6354d19",
+        "GUID:60bfecf5cb232594891bc622f40d6bed",
+        "GUID:ff6de30450f3748908ff580f6ec64d9a",
+        "GUID:839dddadc3b99a046bb2ff65dd094077",
+        "GUID:32ff2f1ed0b83f1409119baa3d1d683b",
+        "GUID:f06555f75b070af458a003d92f9efb00",
+        "GUID:f309cab5349e89043a368ab460700e08",
+        "GUID:40b44d41819601840840f0495c3f2480",
+        "GUID:742971c36912a3b4da8789605f1f4386",
+        "GUID:6b2bcabc233848a28fe57274890e8f9c",
+        "GUID:9128632f5a694877955b093778a1233f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [
+        "Purchasing.Common.dll",
+        "Stores.dll",
+        "DOTween.dll",
+        "DOTweenEditor.dll",
+        "Editor.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.simulation.games",
+            "expression": "",
+            "define": "UNITY_GAME_SIMULATION"
+        },
+        {
+            "name": "com.server.epsilon",
+            "expression": "",
+            "define": "EPSILON"
+        },
+        {
+            "name": "com.unity.purchasing",
+            "expression": "",
+            "define": "UNITY_INAPP"
+        }
+    ],
+    "noEngineReferences": false
+}

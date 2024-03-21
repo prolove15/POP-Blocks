@@ -1,0 +1,27 @@
+{
+    "name": "CandySmith.Network",
+    "rootNamespace": "",
+    "references": [
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:478a2357cc57436488a56e564b08d223",
+        "GUID:f309cab5349e89043a368ab460700e08",
+        "GUID:7550e3c31848fd7459934dcce54eb908",
+        "GUID:10d5aa48387291447b69e39bc1cb3dc2",
+        "GUID:0da6d172d18a54e4389d0dce1e1ffdf2"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.server.epsilon",
+            "expression": "",
+            "define": "EPSILON"
+        }
+    ],
+    "noEngineReferences": false
+}

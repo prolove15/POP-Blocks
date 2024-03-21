@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 916158237abc418aa86933707bcd6ab5, type: 3}
+  m_Name: BallColored
+  m_EditorClassIdentifier: 
+  showInEditor: 1
+  action: 2
+  countFromField: 1
+  targetSprites:
+    array:
+    - icon: {fileID: 21300000, guid: 5c9b71b6406b8a843b08ab0c1c9ca14f, type: 3}
+      uiSprite: 1
+      count: 0
+    - icon: {fileID: 21300000, guid: 9eb79a854ca441e4887b7f8bb1a8e9ca, type: 3}
+      uiSprite: 0
+      count: 0
+    - icon: {fileID: 21300000, guid: 9138ce626875ec04f99e9222a7466ed5, type: 3}
+      uiSprite: 0
+      count: 0
+    - icon: {fileID: 21300000, guid: 7073ecc510c9e5b43a9508d6997c4186, type: 3}
+      uiSprite: 0
+      count: 0
+    - icon: {fileID: 21300000, guid: 830c38e9ae1b658449dce0339cb4f03d, type: 3}
+      uiSprite: 0
+      count: 0
+    - icon: {fileID: 21300000, guid: ca853cb0f097c114cad3aded1580182b, type: 3}
+      uiSprite: 0
+      count: 0
+    - icon: {fileID: 21300000, guid: ad6bdf0e06190b448b9a45c2e15184ad, type: 3}
+      uiSprite: 0
+      count: 0
+  prefab: {fileID: 0}

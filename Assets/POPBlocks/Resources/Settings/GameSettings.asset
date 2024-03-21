@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3491f25d09a413fa9b2cab1183eb357, type: 3}
+  m_Name: GameSettings
+  m_EditorClassIdentifier: 
+  CapOfLife: 5
+  coins: 5
+  refillLifeCost: 50
+  TotalTimeForRestLifeHours: 0
+  TotalTimeForRestLifeMin: 15
+  TotalTimeForRestLifeSec: 0
+  failAttempts: 1
+  continuePrice: 10
+  movesContinue: 5
+  goMap: 1
+  afterLevel: 3
+  openMenuPlay: 0
+  coinsReward: 10
+  mapType: 1
+  fallingCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: -8.387003
+      outSlope: -8.387003
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.10606062
+    - serializedVersion: 3
+      time: 1.0001945
+      value: 117.44089
+      inSlope: 183.78482
+      outSlope: 183.78482
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.08712117
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4

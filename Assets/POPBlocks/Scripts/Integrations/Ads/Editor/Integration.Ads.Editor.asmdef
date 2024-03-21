@@ -1,0 +1,19 @@
+{
+    "name": "Integration.Ads.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:bd80df08bddd1fa42966c45cd82ddd3b",
+        "GUID:40b44d41819601840840f0495c3f2480"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
